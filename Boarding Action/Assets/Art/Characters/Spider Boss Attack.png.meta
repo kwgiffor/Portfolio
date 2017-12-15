@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: 4b415372296bbea479e8d96df037ef02
+timeCreated: 1510244514
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spider Boss Attack_0
+    21300002: Spider Boss Attack_1
+    21300004: Spider Boss Attack_2
+    21300006: Spider Boss Attack_3
+    21300008: Spider Boss Attack_4
+    21300010: Spider Boss Attack_5
+    21300012: Spider Boss Attack_6
+    21300014: Spider Boss Attack_7
+    21300016: Spider Boss Attack_8
+    21300018: Spider Boss Attack_9
+    21300020: Spider Boss Attack_10
+    21300022: Spider Boss Attack_11
+    21300024: Spider Boss Attack_12
+    21300026: Spider Boss Attack_13
+    21300028: Spider Boss Attack_14
+    21300030: Spider Boss Attack_15
+    21300032: Spider Boss Attack_16
+    21300034: Spider Boss Attack_17
+    21300036: Spider Boss Attack_18
+    21300038: Spider Boss Attack_19
+    21300040: Spider Boss Attack_20
+    21300042: Spider Boss Attack_21
+    21300044: Spider Boss Attack_22
+    21300046: Spider Boss Attack_23
+    21300048: Spider Boss Attack_24
+    21300050: Spider Boss Attack_25
+    21300052: Spider Boss Attack_26
+    21300054: Spider Boss Attack_27
+    21300056: Spider Boss Attack_28
+    21300058: Spider Boss Attack_29
+    21300060: Spider Boss Attack_30
+    21300062: Spider Boss Attack_31
+    21300064: Spider Boss Attack_32
+    21300066: Spider Boss Attack_33
+    21300068: Spider Boss Attack_34
+    21300070: Spider Boss Attack_35
+    21300072: Spider Boss Attack_36
+    21300074: Spider Boss Attack_37
+    21300076: Spider Boss Attack_38
+    21300078: Spider Boss Attack_39
+    21300080: Spider Boss Attack_40
+    21300082: Spider Boss Attack_41
+    21300084: Spider Boss Attack_42
+    21300086: Spider Boss Attack_43
+    21300088: Spider Boss Attack_44
+    21300090: Spider Boss Attack_45
+    21300092: Spider Boss Attack_46
+    21300094: Spider Boss Attack_47
+    21300096: Spider Boss Attack_48
+    21300098: Spider Boss Attack_49
+    21300100: Spider Boss Attack_50
+    21300102: Spider Boss Attack_51
+    21300104: Spider Boss Attack_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider Boss Attack_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1769
+        width: 158
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1768
+        width: 160
+        height: 235
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1769
+        width: 160
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_3
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1768
+        width: 160
+        height: 243
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 1769
+        width: 230
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_5
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1853
+        width: 56
+        height: 66
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_6
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1768
+        width: 158
+        height: 243
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1769
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_8
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1768
+        width: 160
+        height: 235
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_9
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 1769
+        width: 158
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1469
+        width: 158
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_11
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1469
+        width: 160
+        height: 236
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_12
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1469
+        width: 160
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_13
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1469
+        width: 160
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1469
+        width: 260
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1559
+        width: 36
+        height: 44
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_16
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1469
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_17
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1469
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_18
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1469
+        width: 160
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1169
+        width: 160
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1168
+        width: 160
+        height: 241
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_21
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1169
+        width: 160
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_22
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1168
+        width: 158
+        height: 243
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_23
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1169
+        width: 260
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_24
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1168
+        width: 158
+        height: 243
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_25
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1169
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_26
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1168
+        width: 160
+        height: 235
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 869
+        width: 160
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_28
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 869
+        width: 160
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_29
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 869
+        width: 161
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_30
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 869
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_31
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 869
+        width: 260
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_32
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 869
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_33
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 869
+        width: 160
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_34
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 869
+        width: 160
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 569
+        width: 160
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 568
+        width: 160
+        height: 243
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_37
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 569
+        width: 160
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_38
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 568
+        width: 182
+        height: 243
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_39
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 645
+        width: 98
+        height: 100
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_40
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 569
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_41
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 568
+        width: 158
+        height: 243
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_42
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 569
+        width: 160
+        height: 240
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_43
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 568
+        width: 160
+        height: 235
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_44
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 269
+        width: 160
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 269
+        width: 160
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_46
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 269
+        width: 161
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_47
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 269
+        width: 206
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_48
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 345
+        width: 78
+        height: 92
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_49
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 269
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_50
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 269
+        width: 158
+        height: 242
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_51
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 269
+        width: 160
+        height: 236
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spider Boss Attack_52
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 269
+        width: 158
+        height: 234
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
